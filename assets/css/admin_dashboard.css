@@ -1,0 +1,44 @@
+/* body {
+  background: linear-gradient(135deg, #e0eafc 0%, #cfdef3 100%);
+}
+
+.dashboard-card {
+  margin-top: 40px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  border-radius: 16px;
+}
+
+.party-card {
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
+  transition: transform 0.2s;
+}
+
+.party-card:hover {
+  transform: scale(1.04);
+}
+
+.table th,
+.table td {
+  vertical-align: middle;
+}
+
+.table thead {
+  background: #007bff;
+  color: #fff;
+}
+
+.btn-warning {
+  color: #fff;
+}
+
+img.candidate-pic {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.add_buttons {
+  display: flex;
+  justify-content: center;
+} */
