@@ -3,7 +3,7 @@
 ini_set('session.cookie_lifetime', 0); // Session ends when the browser closes.
 session_start();
 
-// Set a 30-minute inactivity timeout.sandip
+// Set a 30-minute inactivity timeout.
 
 $timeout = 1800;
 if (isset($_SESSION['last_activity']) && (time() - $_SESSION['last_activity']) > $timeout) {
